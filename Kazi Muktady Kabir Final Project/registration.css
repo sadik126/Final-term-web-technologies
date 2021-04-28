@@ -1,0 +1,48 @@
+.rbtn{
+	border: none;
+	outline: none;
+	color: white;
+	background:#A52A2A;
+	padding: 10px;
+	margin-top: 60px;
+	font-size: 20px; 
+	font-weight: bold;
+}
+
+.menu a{
+	color: black;
+	text-decoration: none;
+	padding: 5px 10px;
+	margin: 10px;
+	font-size: 25px;
+	font-weight: bold;
+
+}
+
+.logo span{
+	color: red;
+}
+.logo{
+	color: black;
+	font-size: 25px;
+	padding-left: 50px;
+	letter-spacing: 4px;
+
+}
+.menu a:hover{
+	background:#A52A2A;
+	transition: 0.5; 
+}
+
+.menu1 a{
+	color: black;
+	text-decoration: none;
+	padding: 5px 10px;
+	margin: 10px;
+	font-size: 15px;
+	font-weight: bold;
+
+}
+.navbar{
+	background-color: #B2BEB5;
+}
